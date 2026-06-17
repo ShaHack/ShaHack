@@ -65,5 +65,5 @@ To build a career in cybersecurity by applying knowledge of Linux, networking, w
 * **Applied Cybersecurity & Forensics Lab:** Conducted practical exercises in disk imaging, cryptographic hash generation, and digital forensics using Autopsy.
 * **Network Security Lab:** Configured and deployed honeypots to monitor and analyze malicious network traffic.
 * <a href="https://github.com/ShaHack/Sign_Detection">**Sign Detection System:**</a> Developed a hand gesture recognition system using Python and OpenCV to process real-time video input.
-* **Campus Shield:** Designed a web-based campus safety concept using HTML, CSS, and JavaScript to improve security awareness.
-* **Fact Checker Browser Extension:** Built a browser extension using HTML, CSS, and JavaScript to assist users in verifying online information.
+* <a href="https://github.com/ShaHack/Campus-Shield">**Campus Shield:**</a> Designed a web-based campus safety concept using HTML, CSS, and JavaScript to improve security awareness.
+* <a href="https://github.com/ShaHack/Fact-Checker-Extension">**Fact Checker Browser Extension:**</a> Built a browser extension using HTML, CSS, and JavaScript to assist users in verifying online information.
