@@ -1,9 +1,10 @@
 # Hello, I'm Gokul
 <a href="https://linkedin.com/in/gokulnetwork"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity Student | Aspiring Ethical Hacker | Network Security Enthusiast
+Cybersecurity Enthusiast | Ethical Hacker | Network Security
 
 ## Objective
+
 To build a career in cybersecurity by applying knowledge of Linux, networking, web application security, and vulnerability assessment while gaining hands-on experience through projects, internships, and continuous learning.
 
 ## Skills & Practical Labs
