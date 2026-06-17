@@ -5,7 +5,7 @@ Cybersecurity Enthusiast | Ethical Hacker | Network Security
 
 ## Objective
 
-To build a career in cybersecurity by applying knowledge of Linux, networking, web application security, and vulnerability assessment while gaining hands-on experience through projects, internships, and continuous learning.
+Dedicated to building practical cybersecurity expertise through continuous learning, hands-on projects, and real-world problem solving in areas such as Linux, networking, and web application security.
 
 ## Skills & Practical Labs
 
